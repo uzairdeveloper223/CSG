@@ -44,7 +44,7 @@ The web UI includes:
 
 ### Generating a Script
 
-1. Open `index.html` in your browser (locally or hosted).
+1. Open `index.html` in your browser (locally or hosted) or [Click Here](http://csg.uzairmughal.dev/).
 2. Enter the Ollama model ID (e.g. `huihui_ai/deepseek-r1-abliterated:14b`). You can find model IDs at [ollama.com/library](https://ollama.com/library).
 3. Optionally set a display title, your name, a system prompt, and toggle thinking model support.
 4. Click **Generate Script**.
